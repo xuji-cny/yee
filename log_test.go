@@ -1,7 +1,7 @@
 package yee
 
 import (
-	"github.com/cookieY/yee/logger"
+	"github.com/xuji-cny/yee/logger"
 	"github.com/stretchr/testify/assert"
 	"net/http"
 	"net/http/httptest"

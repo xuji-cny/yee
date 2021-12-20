@@ -5,7 +5,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/cookieY/yee"
+	"github.com/xuji-cny/yee"
 )
 
 // RateLimitConfig defines config of rateLimit middleware

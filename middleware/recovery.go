@@ -6,7 +6,7 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/cookieY/yee"
+	"github.com/xuji-cny/yee"
 )
 
 // Recovery is a recovery middleware

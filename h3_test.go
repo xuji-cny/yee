@@ -2,7 +2,7 @@ package yee
 
 import (
 	"fmt"
-	pb "github.com/cookieY/yee/test"
+	pb "github.com/xuji-cny/yee/test"
 	"net/http"
 	"testing"
 )

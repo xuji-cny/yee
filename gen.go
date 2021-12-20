@@ -12,7 +12,7 @@ package ${PACKAGE}
 
 import (
     "net/http"
-	"github.com/cookieY/yee"
+	"github.com/xuji-cny/yee"
 	"github.com/jinzhu/gorm"
 )
 

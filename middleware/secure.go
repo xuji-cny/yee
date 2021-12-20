@@ -3,7 +3,7 @@ package middleware
 import (
 	"fmt"
 
-	"github.com/cookieY/yee"
+	"github.com/xuji-cny/yee"
 )
 
 type (

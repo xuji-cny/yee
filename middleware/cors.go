@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/cookieY/yee"
+	"github.com/xuji-cny/yee"
 )
 
 // CORSConfig defined the config of CORS middleware

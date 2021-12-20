@@ -1,4 +1,4 @@
-module github.com/cookieY/yee
+module github.com/xuji-cny/yee
 
 go 1.16
 
